@@ -1,0 +1,174 @@
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.AssemblyReference.cache
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.AssemblyInfoInputs.cache
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.AssemblyInfo.cs
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.CoreCompileInputs.cache
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\appsettings.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.exe
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.deps.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.runtimeconfig.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.pdb
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.RetroRidesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RetroRidesAPI.props
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RetroRidesAPI.props
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RetroRidesAPI.props
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\scopedcss\bundle\RetroRidesAPI.styles.css
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.CopyComplete
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\refint\RetroRidesAPI.dll
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.pdb
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.genruntimeconfig.cache
+D:\My Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\ref\RetroRidesAPI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.exe
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.deps.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.runtimeconfig.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\RetroRidesAPI.pdb
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.AssemblyReference.cache
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.AssemblyInfoInputs.cache
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.AssemblyInfo.cs
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.CoreCompileInputs.cache
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.RetroRidesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RetroRidesAPI.props
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RetroRidesAPI.props
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RetroRidesAPI.props
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\scopedcss\bundle\RetroRidesAPI.styles.css
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.csproj.CopyComplete
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\refint\RetroRidesAPI.dll
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.pdb
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\RetroRidesAPI.genruntimeconfig.cache
+D:\Projects\RetroRides\RetroRidesAPI\RetroRidesAPI\obj\Debug\net6.0\ref\RetroRidesAPI.dll

@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\BetaBuildersHub\\ReStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:14:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
+              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Entities\\Product.cs",
+              "RelativeToolTip": "API\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:54:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
+              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\StoreContext.cs",
+              "RelativeToolTip": "API\\Data\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:10:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "API\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:22:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:01:15.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
