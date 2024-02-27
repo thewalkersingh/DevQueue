@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj": {}
+    "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj": {
+    "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj",
+        "projectPath": "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\thewa\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\obj\\",
+        "outputPath": "D:\\Projects\\CodeCanvas\\ReStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thewa\\AppData\\Roaming\\NuGet\\NuGet.Config",

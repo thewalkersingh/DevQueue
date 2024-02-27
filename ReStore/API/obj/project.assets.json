@@ -4214,11 +4214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj",
+      "projectUniqueName": "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj",
+      "projectPath": "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj",
       "packagesPath": "C:\\Users\\thewa\\.nuget\\packages\\",
-      "outputPath": "d:\\Projects\\BetaBuildersHub\\ReStore\\API\\obj\\",
+      "outputPath": "D:\\Projects\\CodeCanvas\\ReStore\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thewa\\AppData\\Roaming\\NuGet\\NuGet.Config",

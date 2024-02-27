@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBZsgRe2qlSjF0czh37I3SX+AfRDBKtgKxKNydq6zrKbVZX4EjakORJBdVti+hG4Ikk3gqEltao+QulFiAMd7Q==",
+  "dgSpecHash": "4KjvBx96TrlRUmwcJZNRplsj8J4nMuxNdIUi+XHz14011rE5SjodEEI0Ew/V+n1caSvQf+SrdKQcb4TzJKbtXQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\API.csproj",
+  "projectFilePath": "D:\\Projects\\CodeCanvas\\ReStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thewa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\thewa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

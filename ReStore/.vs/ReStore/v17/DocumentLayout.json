@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\BetaBuildersHub\\ReStore\\",
+  "WorkspaceRootPath": "D:\\Projects\\CodeCanvas\\ReStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\betabuildershub\\restore\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,48 +64,45 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Program.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAADwvxgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:14:30.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T13:14:30.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Entities\\Product.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Entities\\Product.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
               "RelativeToolTip": "API\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:54:50.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:54:50.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StoreContext.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\StoreContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\StoreContext.cs",
               "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\StoreContext.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\StoreContext.cs",
               "RelativeToolTip": "API\\Data\\StoreContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T18:10:04.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T18:10:04.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\DbInitializer.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "API\\Data\\DbInitializer.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\DbInitializer.cs",
               "RelativeToolTip": "API\\Data\\DbInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +112,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\ReStore\\API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T09:01:15.886Z",
               "EditorCaption": ""
