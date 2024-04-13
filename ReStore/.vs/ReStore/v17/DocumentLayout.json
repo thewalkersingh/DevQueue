@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\CodeCanvas\\ReStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,88 +66,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvy8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:01:49.444Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Basket.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
+              "RelativeToolTip": "API\\Entities\\Basket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:08:49.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\BasketItem.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "API\\Entities\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:30:07.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\BasketDto.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
+              "RelativeToolTip": "API\\DTOs\\BasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:34:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\BasketItemDto.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketItemDto.cs",
+              "RelativeToolTip": "API\\DTOs\\BasketItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:36:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:14:30.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
-              "RelativeToolTip": "API\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:54:50.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Data\\StoreContext.cs",
-              "RelativeToolTip": "API\\Data\\StoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T18:10:04.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:01:15.886Z",
+              "WhenOpened": "2024-03-22T10:14:23.268Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BaseApiController.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "API\\Controllers\\BaseApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:58:42.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BuggyController.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BuggyController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BuggyController.cs",
-              "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T11:25:57.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T11:43:31.82Z"
             }
           ]
         },
