@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\",
+  "WorkspaceRootPath": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\data\\migrations\\20240224142732_updationgdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\data\\migrations\\20240224142732_updationgdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\data\\migrations\\20230806205730_createdprocduct_motorcycle_and_car_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\data\\migrations\\20230806205730_createdprocduct_motorcycle_and_car_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\codecanvas\\retrorides\\retroridesapi\\retroridesapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\betabuildershub\\retrorides\\retroridesapi\\retroridesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\codecanvas\\retrorides\\retroridesapi\\retroridesapi\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\codecanvas\\retrorides\\retroridesapi\\retroridesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|d:\\projects\\codecanvas\\retrorides\\retroridesapi\\retroridesapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D9A8E8-F6C1-48EB-B65D-BC51FFDC75D3}|RetroRidesAPI\\RetroRidesAPI.csproj|solutionrelative:retroridesapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,39 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:20:16.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Data\\DataContext.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataContext.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:25:11.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DataSeeder.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataSeeder.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataSeeder.cs",
               "RelativeDocumentMoniker": "RetroRidesAPI\\Data\\DataSeeder.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataSeeder.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\DataSeeder.cs",
               "RelativeToolTip": "RetroRidesAPI\\Data\\DataSeeder.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T14:25:13.672Z",
               "EditorCaption": ""
@@ -114,66 +72,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240224142732_UpdationgDB.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\Migrations\\20240224142732_UpdationgDB.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Data\\Migrations\\20240224142732_UpdationgDB.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\Migrations\\20240224142732_UpdationgDB.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Data\\Migrations\\20240224142732_UpdationgDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RetroRidesAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Program.cs",
+              "RelativeToolTip": "RetroRidesAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:27:34.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20230806205730_CreatedProcduct_Motorcycle_and_Car_model.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\Migrations\\20230806205730_CreatedProcduct_Motorcycle_and_Car_model.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Data\\Migrations\\20230806205730_CreatedProcduct_Motorcycle_and_Car_model.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Data\\Migrations\\20230806205730_CreatedProcduct_Motorcycle_and_Car_model.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Data\\Migrations\\20230806205730_CreatedProcduct_Motorcycle_and_Car_model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:29:25.729Z",
+              "WhenOpened": "2024-02-24T14:20:16.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Models\\Car.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Car.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Models\\Car.cs",
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "RetroRidesAPI\\Models\\Motorcycle.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "RetroRidesAPI\\Models\\Motorcycle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:29:42.787Z",
+              "WhenOpened": "2024-04-01T20:19:20.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Motorcycle.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Models\\Motorcycle.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Models\\Motorcycle.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Models\\Motorcycle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RetroRidesAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RetroRidesAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:29:46.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Program.cs",
-              "RelativeDocumentMoniker": "RetroRidesAPI\\Program.cs",
-              "ToolTip": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\Program.cs",
-              "RelativeToolTip": "RetroRidesAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T14:20:16.203Z",
+              "WhenOpened": "2024-04-01T20:19:27.511Z",
               "EditorCaption": ""
             }
           ]

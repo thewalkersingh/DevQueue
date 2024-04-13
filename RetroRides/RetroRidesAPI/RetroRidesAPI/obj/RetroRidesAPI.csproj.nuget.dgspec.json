@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj": {}
+    "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj": {
+    "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj",
         "projectName": "RetroRidesAPI",
-        "projectPath": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj",
+        "projectPath": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\RetroRidesAPI.csproj",
         "packagesPath": "C:\\Users\\thewa\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\BetaBuildersHub\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\obj\\",
+        "outputPath": "D:\\Projects\\CodeCanvas\\RetroRides\\RetroRidesAPI\\RetroRidesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thewa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
