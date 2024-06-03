@@ -1,7 +1,7 @@
 using FinsharkAPI.Data;
 
 using Microsoft.EntityFrameworkCore;
-
+Console.WriteLine("Hello Api");
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

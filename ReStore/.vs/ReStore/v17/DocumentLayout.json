@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\CodeCanvas\\ReStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|d:\\projects\\codecanvas\\restore\\api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE38170-DDBC-4757-8AB7-81B8F8260693}|API\\API.csproj|solutionrelative:api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -66,76 +66,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BasketController.cs",
               "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
               "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Controllers\\BasketController.cs",
               "RelativeToolTip": "API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAADwvy8AAAAWAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwE8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:01:49.444Z"
+              "WhenOpened": "2024-05-29T23:23:08.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Basket.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\Basket.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
-              "RelativeToolTip": "API\\Entities\\Basket.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:08:49.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\BasketItem.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\BasketItem.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\BasketItem.cs",
-              "RelativeToolTip": "API\\Entities\\BasketItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:30:07.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasketDto.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
-              "RelativeDocumentMoniker": "API\\DTOs\\BasketDto.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
-              "RelativeToolTip": "API\\DTOs\\BasketDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:34:47.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BasketItemDto.cs",
               "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketItemDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\BasketItemDto.cs",
               "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketItemDto.cs",
               "RelativeToolTip": "API\\DTOs\\BasketItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:36:17.646Z"
+              "WhenOpened": "2024-05-29T23:22:05.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAABAAAA",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Product.cs",
+              "RelativeToolTip": "API\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:14:23.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T23:21:39.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\BasketDto.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\DTOs\\BasketDto.cs",
+              "RelativeToolTip": "API\\DTOs\\BasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:20:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Basket.cs",
+              "ToolTip": "D:\\Projects\\CodeCanvas\\ReStore\\API\\Entities\\Basket.cs",
+              "RelativeToolTip": "API\\Entities\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:20:57.601Z"
             }
           ]
         },

@@ -1,0 +1,32 @@
+﻿@using HouseRatingApp.DTO
+@model IEnumerable<HouseDTO>
+<style>
+    tr {
+        border-bottom: 1px solid #ddd;
+    }
+</style>
+<h2>Houses</h2>
+<p>
+    <a href="@Url.Action("Create")">Create New</a>
+</p>
+<table style="width:90%">
+    <tr>
+        <th>Address</th>
+        <th>Description</th>
+        <th>Rating</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var house in Model)
+    {
+        <tr>
+            <td>@house.Address</td>
+            <td>@house.Description</td>
+            <td>@house.Rating</td>
+            <td>
+                <a href="@Url.Action("Edit", new { id = house.Id })">Edit</a> |
+                <a href="@Url.Action("Details", new { id = house.Id })">Details</a> |
+                <a href="@Url.Action("Delete", new { id = house.Id })">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
