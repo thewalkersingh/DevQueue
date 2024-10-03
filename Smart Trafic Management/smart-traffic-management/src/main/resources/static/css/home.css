@@ -1,0 +1,16 @@
+/* Include common styles here */
+@import url('static/css/styles.css');
+
+/* Specific styles for the home page */
+.hero {
+    background: #f4f4f4;
+    padding: 20px 0;
+}
+
+.features {
+    padding: 20px 0;
+}
+
+.features .feature-item {
+    margin-bottom: 20px;
+}

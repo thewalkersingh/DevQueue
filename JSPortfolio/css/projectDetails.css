@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+#project-details {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 15px;
+    background-color: #ffffff;
+}
+
+.carousel {
+    margin-bottom: 30px;
+}
+
+.project-description h3,
+.project-description h4 {
+    margin-top: 30px;
+}
+
+.project-description p,
+.project-description ul {
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .project-description h3,
+    .project-description h4 {
+        text-align: center;
+    }
+
+    .carousel img {
+        height: auto;
+        max-height: 300px;
+    }
+}

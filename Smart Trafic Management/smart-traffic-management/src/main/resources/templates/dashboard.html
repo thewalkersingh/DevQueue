@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Dashboard - Smart Traffic Management System</title>
+    <link href="./css/styles.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <div class="container">
+        <h1>Smart Traffic Management System</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/dashboard">Dashboard</a></li>
+                <li><a href="/traffic-details">Traffic Details</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <section class="dashboard">
+        <div class="container">
+            <h2>Dashboard</h2>
+            <p>Welcome to the Traffic Management Dashboard. Here you can see an overview of the system's status.</p>
+            
+            <div class="overview">
+                <div class="box">
+                    <h3>Total Intersections</h3>
+                    <p th:text="${totalIntersections}">Total Intersections: 0</p>
+                </div>
+                <div class="box">
+                    <h3>Total Sensors</h3>
+                    <p th:text="${totalSensors}">Total Sensors: 0</p>
+                </div>
+                <div class="box">
+                    <h3>Total Traffic Lights</h3>
+                    <p th:text="${totalTrafficLights}">Total Traffic Lights: 0</p>
+                </div>
+                <div class="box">
+                    <h3>Total Vehicles</h3>
+                    <p th:text="${totalVehicles}">Total Vehicles: 0</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container">
+        <p>&copy; 2024 Smart Traffic Management System. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
