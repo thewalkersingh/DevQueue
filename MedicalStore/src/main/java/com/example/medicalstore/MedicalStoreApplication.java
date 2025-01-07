@@ -6,9 +6,9 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @SpringBootApplication
 @EnableWebMvc
 public class MedicalStoreApplication {
-	public static void main(String[] args) {
-		SpringApplication.run(MedicalStoreApplication.class, args);
-	}
+   public static void main(String[] args) {
+	  SpringApplication.run(MedicalStoreApplication.class, args);
+   }
 }
 //Customers: http://localhost:8080/customers
 //Medicines: http://localhost:8080/medicines

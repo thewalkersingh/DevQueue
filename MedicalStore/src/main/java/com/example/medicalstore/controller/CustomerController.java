@@ -14,25 +14,25 @@ import java.util.List;
 @Controller
 @RequestMapping("/customers")
 public class CustomerController {
-	@Autowired
-	private CustomerService customerService;
-	
-	@GetMapping("")
-	public String getAllCustomers(Model model) {
-		List<Customer> customers = customerService.getAllCustomers();
-		model.addAttribute("customers", customers);
-		return "customers";
-	}
-	
-	@GetMapping("/new")
-	public String createCustomerForm(Model model) {
-		model.addAttribute("customer", new Customer());
-		return "create_customer";
-	}
-	
-	@PostMapping("")
-	public String saveCustomer(@ModelAttribute("customer") Customer customer) {
-		customerService.saveCustomer(customer);
-		return "redirect:/customers";
-	}
+   @Autowired
+   private CustomerService customerService;
+   
+   @GetMapping("")
+   public String getAllCustomers(Model model) {
+	  List<Customer> customers = customerService.getAllCustomers();
+	  model.addAttribute("customers", customers);
+	  return "customers";
+   }
+   
+   @GetMapping("/new")
+   public String createCustomerForm(Model model) {
+	  model.addAttribute("customer", new Customer());
+	  return "create_customer";
+   }
+   
+   @PostMapping("")
+   public String saveCustomer(@ModelAttribute("customer") Customer customer) {
+	  customerService.saveCustomer(customer);
+	  return "redirect:/customers";
+   }
 }
